@@ -1,2 +1,2 @@
 # NLP
-This repo contains all NLP related programs (NLTK, Tweepy, TextBlob)
+This repo contains all NLP and Text Mining related programs (NLTK, Tweepy, TextBlob)
